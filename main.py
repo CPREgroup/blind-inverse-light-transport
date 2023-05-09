@@ -150,6 +150,7 @@ if __name__ == '__main__':
         loss_T_chroma = 0.001 * criterion1(t, t_Y)
 
         #lossv = torch.sum(torch.abs(v)) * (1.4 * 1e-9) # if the dataset are disk
+        #lossv = torch.sum(torch.abs(v)) * (2.3 * 1e-10) # if the dataset are arrow,the end_epoch can set as 20000
         lossv = torch.sum(torch.abs(v)) * (5 * 1e-12) # if the dataset are hands
 
         lossa = loss_fit_dt  + loss_fit_direct + loss_mag + loss_nonneg  + loss_smooth_dI + loss_smooth_dJ + loss_T_chroma
