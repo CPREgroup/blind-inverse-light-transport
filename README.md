@@ -1,6 +1,6 @@
 # blind-inverse-light-transport-using-unrolling-network
 
-Visualization of hidden video recovery on the Arrow dataset
+Comparison of visual effects of hidden video recovery methods on the Arrow dataset
 
 <div style="display:inline-block">
   <img src="https://user-images.githubusercontent.com/75066519/236967818-77dee0ba-cc0b-45bf-b26b-7cc870ca1edb.png" alt="experimental setup",width="50",height="50">
