@@ -12,7 +12,7 @@ Visualization of hidden video recovery on the Arrow dataset
 experimental setup&nbsp
 obseved images&nbsp&nbsp&nbsp&nbsp
 Ground Truth&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-ComputMirrors&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ComputMirrors&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Ours
 
 <!-- <center class![Uploading experimental setup.png…]()
