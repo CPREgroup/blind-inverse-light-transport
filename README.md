@@ -10,7 +10,7 @@ Visualization of hidden video recovery on the Arrow dataset
   <img src="https://user-images.githubusercontent.com/75066519/236830797-ae8740c1-ae0a-4a11-afe7-180cfc6fc22e.gif" alt="Ours">
 </div>
 experimental setup&nbsp
-obseved images&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+obseved images&nbsp&nbsp&nbsp&nbsp
 Ground Truth&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Their&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Ours
