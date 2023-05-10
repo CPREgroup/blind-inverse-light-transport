@@ -15,7 +15,7 @@ Ground Truth&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 ComputMirrors&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 Ours
 
-The dataset for this article can be downloaded through the following link, with the extraction code of txwl：https://pan.baidu.com/s/1xnCIvZf6FQme5IB0X9fTrw?pwd=txwl 
+The dataset for this article can be downloaded through the following link：https://pan.baidu.com/s/1xnCIvZf6FQme5IB0X9fTrw?pwd=txwl 
 <!-- <center class![Uploading experimental setup.png…]()
 ="half">
     <img src="https://user-images.githubusercontent.com/75066519/236849741-9b5da7ec-3d9d-424b-b80f-2ea71293bb3d.gif" width="128"/><img src="https://user-images.githubusercontent.com/75066519/236830676-e502e78e-3d0f-4712-a5e0-294b215c3590.gif" width="128"/><img src="https://user-images.githubusercontent.com/75066519/236849938-c8e09389-8064-4df6-a8ca-5900b6ad6feb.gif" width="128"/><img src="https://user-images.githubusercontent.com/75066519/236830797-ae8740c1-ae0a-4a11-afe7-180cfc6fc22e.gif" width="128"/>
